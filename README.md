@@ -1,6 +1,28 @@
 # 💫 About Me:
 
-I am a passionate developer with expertise in Artificial intelligence and data science. I love working with data and creating models that make a difference.
+Oh hello there! 😁
+
+I am an Artificial Intelligence Specialist with several years of experience in Python, but for my friends, I’m still the person who speaks more in code than words 😂
+
+✨ My Passion and Purpose? 
+
+I’m passionate about AI because of its limitless potential to solve real-world problems and create future-changing technologies. I enjoy pushing boundaries with AI models, and I’m driven by the desire to innovate and simplify complex tasks through automation.
+
+🚀 What I’m Proud to Have Accomplished:
+
+1. AI Model Integration into Unreal Engine → Obsidian Gateway – Developing a sophisticated pipeline for real-time AI vision integration into Unreal Engine, blending cutting-edge technology with immersive experiences.
+2. Synthetic Medical Image Generation – Generating synthetic medical imagery that revolutionizes research and AI-driven solutions.
+3. Abbreviation Disambiguation in Medical NLP – Enhancing medical systems' ability to interpret clinical abbreviations with precision.
+
+💻 I speak not in my mother tongue, but in Python! I’ve worked with a wide range of Python libraries and tools, mainly in AI, Networking, and Backend development. Thanks to my Master's in AI at Bologna, I’ve also gotten my hands on Prolog, Minizinc, and Lisp, enriching my toolbox for solving complex problems.
+
+✏️ Alongside my work, I post educational content on LinkedIn and love sharing knowledge to help others grow.
+
+👥 Let’s Connect:
+
+I thrive on learning new things and am always eager to dive into fresh challenges. I’m very precise (some might say too precise 😂) and I take deadlines seriously. I also have a habit of automating anything repetitive, making tasks a one-click affair.
+
+👋🏻 Thanks for stopping by my profile! Feel free to drop me a message anytime 📧
 
 ## 🌐 Socials:
 
